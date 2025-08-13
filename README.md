@@ -24,6 +24,13 @@ The core of this project is an end-to-end data science pipeline, from explorator
 - `imblearn`: For handling imbalanced data with SMOTE
 - `matplotlib` & `seaborn`: For data visualization and plotting evaluation metrics
 
+## 🚀 Getting Started
+
+1. Open the notebook in [Google Colab](https://colab.research.google.com/drive/1IuR-IAUc4q3VKtpueFXmI8ErXmZyXagl)
+2. Make a copy to your Google Drive (File → Save a copy in Drive)
+3. Run each cell sequentially to reproduce the analysis and results
+4. Modify hyperparameters or preprocessing steps as needed for experimentation
+
 ## 📊 Key Features
 
 - Complete fraud detection pipeline from raw data to model evaluation
@@ -41,4 +48,4 @@ Contributions and suggestions are welcome! Feel free to:
 
 ---
 
-
+**Note**: This project demonstrates best practices in fraud detection, including proper evaluation metrics for imbalanced classification problems.
